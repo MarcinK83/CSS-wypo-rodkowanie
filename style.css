@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+#container {
+    width: 100%;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2e353f;
+    background-image: url('https://www.cranfield-colours.co.uk/wp-content/uploads/2022/01/cranfield-traditional-etching-ink-mid-black.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#container p {
+    color: white;
+    font-size: 24px;
+    margin: 0;
+}
